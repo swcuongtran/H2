@@ -1,11 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "QZzMMiIDx2E=",
+  "dgSpecHash": "jBiCTtDCOQw=",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\H2.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\awssdk.core\\4.0.0.13\\awssdk.core.4.0.0.13.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\awssdk.s3\\4.0.3\\awssdk.s3.4.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.3.0\\microsoft.aspnetcore.authorization.2.3.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\2.3.0\\microsoft.aspnetcore.connections.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\1.2.0\\microsoft.aspnetcore.signalr.common.1.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.signalr.core\\1.2.0\\microsoft.aspnetcore.signalr.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\1.2.0\\microsoft.aspnetcore.signalr.protocols.json.1.2.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.6\\microsoft.entityframeworkcore.9.0.6.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.6\\microsoft.entityframeworkcore.abstractions.9.0.6.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.6\\microsoft.entityframeworkcore.analyzers.9.0.6.nupkg.sha512",
@@ -25,11 +31,15 @@
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.options\\9.0.6\\microsoft.extensions.options.9.0.6.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\9.0.6\\microsoft.extensions.options.configurationextensions.9.0.6.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.6\\microsoft.extensions.primitives.9.0.6.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\9.0.4\\npgsql.entityframeworkcore.postgresql.9.0.4.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.buffers\\4.6.0\\system.buffers.4.6.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.threading.channels\\8.0.0\\system.threading.channels.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\H2.Domain\H2.Domain.csproj" />
     <ProjectReference Include="..\H2.Shared\H2.Shared.csproj" />
   </ItemGroup>

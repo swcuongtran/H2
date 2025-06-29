@@ -7,7 +7,7 @@ namespace H2.Domain.Entities
         public Guid Id { get; set; }
         public string DeviceId { get; set; } = null!;
         public DateTime Timestamp { get; set; }
-        public double PPM { get; set; }
+        public double Ppm { get; set; }
         public ArlertLevel AlertLevel { get; set; }
     }
 }

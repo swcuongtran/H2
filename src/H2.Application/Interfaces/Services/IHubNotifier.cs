@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using H2.Domain.Entities;
 
 namespace H2.Application.Interfaces.Services
 {
-    interface IHubNotifier
+    public interface IHubNotifier
     {
+        Task PushSensorDataAsync(SensorData sensorData, CancellationToken cancellationToken);
+        Task PushAnomalyImageAsync(Guid imageId, string imageUrl, CancellationToken cancellationToken);
     }
 }
