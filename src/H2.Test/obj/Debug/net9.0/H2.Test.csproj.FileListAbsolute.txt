@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\H2\src\H2.Test\bin\Debug\net9.0\H2.Test.deps.json
+C:\Users\Admin\Desktop\H2\src\H2.Test\bin\Debug\net9.0\H2.Test.dll
+C:\Users\Admin\Desktop\H2\src\H2.Test\bin\Debug\net9.0\H2.Test.pdb
+C:\Users\Admin\Desktop\H2\src\H2.Test\obj\Debug\net9.0\H2.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\H2\src\H2.Test\obj\Debug\net9.0\H2.Test.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\H2\src\H2.Test\obj\Debug\net9.0\H2.Test.AssemblyInfo.cs
+C:\Users\Admin\Desktop\H2\src\H2.Test\obj\Debug\net9.0\H2.Test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\H2\src\H2.Test\obj\Debug\net9.0\H2.Test.sourcelink.json
+C:\Users\Admin\Desktop\H2\src\H2.Test\obj\Debug\net9.0\H2.Test.dll
+C:\Users\Admin\Desktop\H2\src\H2.Test\obj\Debug\net9.0\refint\H2.Test.dll
+C:\Users\Admin\Desktop\H2\src\H2.Test\obj\Debug\net9.0\H2.Test.pdb
+C:\Users\Admin\Desktop\H2\src\H2.Test\obj\Debug\net9.0\ref\H2.Test.dll

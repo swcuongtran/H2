@@ -1,0 +1,554 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0286441-2CC2-48C9-8B05-244AF52BE5AE}|H2.API.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0286441-2CC2-48C9-8B05-244AF52BE5AE}|H2.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Roaming\\Microsoft\\UserSecrets\\1921d091-b329-4010-b733-a0adf3d57d75\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E59F0B-F3A9-455A-829A-694D425BBE1E}|..\\H2.Infrastructure\\H2.Infrastructure.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.infrastructure\\messaging\\consumers\\uploadtos3consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E59F0B-F3A9-455A-829A-694D425BBE1E}|..\\H2.Infrastructure\\H2.Infrastructure.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.infrastructure\\messaging\\consumers\\models\\thermalimageuploadmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A585B3BC-D121-4026-9234-0BD60525C96B}|..\\H2.Domain\\H2.Domain.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.domain\\entities\\thermalimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E59F0B-F3A9-455A-829A-694D425BBE1E}|..\\H2.Infrastructure\\H2.Infrastructure.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.infrastructure\\services\\alertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A72103-7A8A-4A41-92A7-8675864D72AB}|..\\H2.Application\\H2.Application.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.application\\interfaces\\services\\iimageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A72103-7A8A-4A41-92A7-8675864D72AB}|..\\H2.Application\\H2.Application.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.application\\interfaces\\services\\ithresholdevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A72103-7A8A-4A41-92A7-8675864D72AB}|..\\H2.Application\\H2.Application.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.application\\interfaces\\services\\idevicestatusevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E59F0B-F3A9-455A-829A-694D425BBE1E}|..\\H2.Infrastructure\\H2.Infrastructure.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.infrastructure\\h2.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A72103-7A8A-4A41-92A7-8675864D72AB}|..\\H2.Application\\H2.Application.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.application\\interfaces\\services\\ialertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E59F0B-F3A9-455A-829A-694D425BBE1E}|..\\H2.Infrastructure\\H2.Infrastructure.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.infrastructure\\messaging\\consumers\\sensordataconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A72103-7A8A-4A41-92A7-8675864D72AB}|..\\H2.Application\\H2.Application.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.application\\h2.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E59F0B-F3A9-455A-829A-694D425BBE1E}|..\\H2.Infrastructure\\H2.Infrastructure.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.infrastructure\\messaging\\consumers\\deviceheartbeatconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E59F0B-F3A9-455A-829A-694D425BBE1E}|..\\H2.Infrastructure\\H2.Infrastructure.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.infrastructure\\messaging\\consumers\\sendalertconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E59F0B-F3A9-455A-829A-694D425BBE1E}|..\\H2.Infrastructure\\H2.Infrastructure.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.infrastructure\\messaging\\consumers\\thermalimageprocessingconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E59F0B-F3A9-455A-829A-694D425BBE1E}|..\\H2.Infrastructure\\H2.Infrastructure.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.infrastructure\\messaging\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E59F0B-F3A9-455A-829A-694D425BBE1E}|..\\H2.Infrastructure\\H2.Infrastructure.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A585B3BC-D121-4026-9234-0BD60525C96B}|..\\H2.Domain\\H2.Domain.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.domain\\enums\\arlertlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E59F0B-F3A9-455A-829A-694D425BBE1E}|..\\H2.Infrastructure\\H2.Infrastructure.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.infrastructure\\cloud\\awss3uploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A72103-7A8A-4A41-92A7-8675864D72AB}|..\\H2.Application\\H2.Application.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.application\\interfaces\\services\\ihubnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E59F0B-F3A9-455A-829A-694D425BBE1E}|..\\H2.Infrastructure\\H2.Infrastructure.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.infrastructure\\messaging\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A72103-7A8A-4A41-92A7-8675864D72AB}|..\\H2.Application\\H2.Application.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.application\\interfaces\\messaging\\imessagequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A72103-7A8A-4A41-92A7-8675864D72AB}|..\\H2.Application\\H2.Application.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.application\\usecases\\uploadimageusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E59F0B-F3A9-455A-829A-694D425BBE1E}|..\\H2.Infrastructure\\H2.Infrastructure.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.infrastructure\\persistence\\repositories\\thermalimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A72103-7A8A-4A41-92A7-8675864D72AB}|..\\H2.Application\\H2.Application.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.application\\interfaces\\repositories\\ithermalimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E59F0B-F3A9-455A-829A-694D425BBE1E}|..\\H2.Infrastructure\\H2.Infrastructure.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.infrastructure\\persistence\\repositories\\alertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A72103-7A8A-4A41-92A7-8675864D72AB}|..\\H2.Application\\H2.Application.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.application\\interfaces\\repositories\\ialertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E59F0B-F3A9-455A-829A-694D425BBE1E}|..\\H2.Infrastructure\\H2.Infrastructure.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.infrastructure\\persistence\\repositories\\devicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A72103-7A8A-4A41-92A7-8675864D72AB}|..\\H2.Application\\H2.Application.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.application\\interfaces\\repositories\\idevicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E59F0B-F3A9-455A-829A-694D425BBE1E}|..\\H2.Infrastructure\\H2.Infrastructure.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.infrastructure\\persistence\\repositories\\sensordatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A72103-7A8A-4A41-92A7-8675864D72AB}|..\\H2.Application\\H2.Application.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.application\\interfaces\\repositories\\isensordatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A72103-7A8A-4A41-92A7-8675864D72AB}|..\\H2.Application\\H2.Application.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.application\\interfaces\\cloud\\is3uploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0286441-2CC2-48C9-8B05-244AF52BE5AE}|H2.API.csproj|c:\\users\\admin\\desktop\\h2\\src\\h2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0286441-2CC2-48C9-8B05-244AF52BE5AE}|H2.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Roaming\\Microsoft\\UserSecrets\\1921d091-b329-4010-b733-a0adf3d57d75\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\1921d091-b329-4010-b733-a0adf3d57d75\\secrets.json",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Roaming\\Microsoft\\UserSecrets\\1921d091-b329-4010-b733-a0adf3d57d75\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\1921d091-b329-4010-b733-a0adf3d57d75\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T08:56:05.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThermalImageUploadMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Messaging\\Consumers\\Models\\ThermalImageUploadMessage.cs",
+              "RelativeDocumentMoniker": "..\\H2.Infrastructure\\Messaging\\Consumers\\Models\\ThermalImageUploadMessage.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Messaging\\Consumers\\Models\\ThermalImageUploadMessage.cs",
+              "RelativeToolTip": "..\\H2.Infrastructure\\Messaging\\Consumers\\Models\\ThermalImageUploadMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:17:08.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlertService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Services\\AlertService.cs",
+              "RelativeDocumentMoniker": "..\\H2.Infrastructure\\Services\\AlertService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Services\\AlertService.cs",
+              "RelativeToolTip": "..\\H2.Infrastructure\\Services\\AlertService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:07:06.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAlertService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Services\\IAlertService.cs",
+              "RelativeDocumentMoniker": "..\\H2.Application\\Interfaces\\Services\\IAlertService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Services\\IAlertService.cs",
+              "RelativeToolTip": "..\\H2.Application\\Interfaces\\Services\\IAlertService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:51:54.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IImageProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Services\\IImageProcessor.cs",
+              "RelativeDocumentMoniker": "..\\H2.Application\\Interfaces\\Services\\IImageProcessor.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Services\\IImageProcessor.cs",
+              "RelativeToolTip": "..\\H2.Application\\Interfaces\\Services\\IImageProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:53:58.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UploadToS3Consumer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Messaging\\Consumers\\UploadToS3Consumer.cs",
+              "RelativeDocumentMoniker": "..\\H2.Infrastructure\\Messaging\\Consumers\\UploadToS3Consumer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Messaging\\Consumers\\UploadToS3Consumer.cs",
+              "RelativeToolTip": "..\\H2.Infrastructure\\Messaging\\Consumers\\UploadToS3Consumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:20:32.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-27T06:32:06.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AwsS3Uploader.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Cloud\\AwsS3Uploader.cs",
+              "RelativeDocumentMoniker": "..\\H2.Infrastructure\\Cloud\\AwsS3Uploader.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Cloud\\AwsS3Uploader.cs",
+              "RelativeToolTip": "..\\H2.Infrastructure\\Cloud\\AwsS3Uploader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:57:35.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ArlertLevel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Domain\\Enums\\ArlertLevel.cs",
+              "RelativeDocumentMoniker": "..\\H2.Domain\\Enums\\ArlertLevel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Domain\\Enums\\ArlertLevel.cs",
+              "RelativeToolTip": "..\\H2.Domain\\Enums\\ArlertLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:05:48.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "H2.Application",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\H2.Application.csproj",
+              "RelativeDocumentMoniker": "..\\H2.Application\\H2.Application.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\H2.Application.csproj",
+              "RelativeToolTip": "..\\H2.Application\\H2.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-28T03:09:16.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThermalImage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Domain\\Entities\\ThermalImage.cs",
+              "RelativeDocumentMoniker": "..\\H2.Domain\\Entities\\ThermalImage.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Domain\\Entities\\ThermalImage.cs",
+              "RelativeToolTip": "..\\H2.Domain\\Entities\\ThermalImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T05:31:37.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDeviceStatusEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Services\\IDeviceStatusEvaluator.cs",
+              "RelativeDocumentMoniker": "..\\H2.Application\\Interfaces\\Services\\IDeviceStatusEvaluator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Services\\IDeviceStatusEvaluator.cs",
+              "RelativeToolTip": "..\\H2.Application\\Interfaces\\Services\\IDeviceStatusEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:55:12.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IThresholdEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Services\\IThresholdEvaluator.cs",
+              "RelativeDocumentMoniker": "..\\H2.Application\\Interfaces\\Services\\IThresholdEvaluator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Services\\IThresholdEvaluator.cs",
+              "RelativeToolTip": "..\\H2.Application\\Interfaces\\Services\\IThresholdEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:54:48.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IHubNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Services\\IHubNotifier.cs",
+              "RelativeDocumentMoniker": "..\\H2.Application\\Interfaces\\Services\\IHubNotifier.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Services\\IHubNotifier.cs",
+              "RelativeToolTip": "..\\H2.Application\\Interfaces\\Services\\IHubNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:54:32.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SensorDataConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Messaging\\Consumers\\SensorDataConsumer.cs",
+              "RelativeDocumentMoniker": "..\\H2.Infrastructure\\Messaging\\Consumers\\SensorDataConsumer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Messaging\\Consumers\\SensorDataConsumer.cs",
+              "RelativeToolTip": "..\\H2.Infrastructure\\Messaging\\Consumers\\SensorDataConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:25:12.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ThermalImageProcessingConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Messaging\\Consumers\\ThermalImageProcessingConsumer.cs",
+              "RelativeDocumentMoniker": "..\\H2.Infrastructure\\Messaging\\Consumers\\ThermalImageProcessingConsumer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Messaging\\Consumers\\ThermalImageProcessingConsumer.cs",
+              "RelativeToolTip": "..\\H2.Infrastructure\\Messaging\\Consumers\\ThermalImageProcessingConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:20:29.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SendAlertConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Messaging\\Consumers\\SendAlertConsumer.cs",
+              "RelativeDocumentMoniker": "..\\H2.Infrastructure\\Messaging\\Consumers\\SendAlertConsumer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Messaging\\Consumers\\SendAlertConsumer.cs",
+              "RelativeToolTip": "..\\H2.Infrastructure\\Messaging\\Consumers\\SendAlertConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:20:21.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeviceHeartbeatConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Messaging\\Consumers\\DeviceHeartbeatConsumer.cs",
+              "RelativeDocumentMoniker": "..\\H2.Infrastructure\\Messaging\\Consumers\\DeviceHeartbeatConsumer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Messaging\\Consumers\\DeviceHeartbeatConsumer.cs",
+              "RelativeToolTip": "..\\H2.Infrastructure\\Messaging\\Consumers\\DeviceHeartbeatConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:20:13.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "H2.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\H2.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\H2.Infrastructure\\H2.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\H2.Infrastructure.csproj",
+              "RelativeToolTip": "..\\H2.Infrastructure\\H2.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-27T06:39:00.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RabbitMqPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Messaging\\RabbitMqPublisher.cs",
+              "RelativeDocumentMoniker": "..\\H2.Infrastructure\\Messaging\\RabbitMqPublisher.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Messaging\\RabbitMqPublisher.cs",
+              "RelativeToolTip": "..\\H2.Infrastructure\\Messaging\\RabbitMqPublisher.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:33:50.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RabbitMqSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Messaging\\RabbitMqSettings.cs",
+              "RelativeDocumentMoniker": "..\\H2.Infrastructure\\Messaging\\RabbitMqSettings.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Messaging\\RabbitMqSettings.cs",
+              "RelativeToolTip": "..\\H2.Infrastructure\\Messaging\\RabbitMqSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:18:43.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IMessageQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Messaging\\IMessageQueue.cs",
+              "RelativeDocumentMoniker": "..\\H2.Application\\Interfaces\\Messaging\\IMessageQueue.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Messaging\\IMessageQueue.cs",
+              "RelativeToolTip": "..\\H2.Application\\Interfaces\\Messaging\\IMessageQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:17:21.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\H2.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\H2.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:05:39.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UploadImageUsecase.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Usecases\\UploadImageUsecase.cs",
+              "RelativeDocumentMoniker": "..\\H2.Application\\Usecases\\UploadImageUsecase.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Usecases\\UploadImageUsecase.cs",
+              "RelativeToolTip": "..\\H2.Application\\Usecases\\UploadImageUsecase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T05:38:31.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AlertRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Persistence\\Repositories\\AlertRepository.cs",
+              "RelativeDocumentMoniker": "..\\H2.Infrastructure\\Persistence\\Repositories\\AlertRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Persistence\\Repositories\\AlertRepository.cs",
+              "RelativeToolTip": "..\\H2.Infrastructure\\Persistence\\Repositories\\AlertRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAABBwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:54:02.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ThermalImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Persistence\\Repositories\\ThermalImageRepository.cs",
+              "RelativeDocumentMoniker": "..\\H2.Infrastructure\\Persistence\\Repositories\\ThermalImageRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Persistence\\Repositories\\ThermalImageRepository.cs",
+              "RelativeToolTip": "..\\H2.Infrastructure\\Persistence\\Repositories\\ThermalImageRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvysAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:53:42.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IThermalImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Repositories\\IThermalImageRepository.cs",
+              "RelativeDocumentMoniker": "..\\H2.Application\\Interfaces\\Repositories\\IThermalImageRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Repositories\\IThermalImageRepository.cs",
+              "RelativeToolTip": "..\\H2.Application\\Interfaces\\Repositories\\IThermalImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:50:12.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAlertRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Repositories\\IAlertRepository.cs",
+              "RelativeDocumentMoniker": "..\\H2.Application\\Interfaces\\Repositories\\IAlertRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Repositories\\IAlertRepository.cs",
+              "RelativeToolTip": "..\\H2.Application\\Interfaces\\Repositories\\IAlertRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:50:34.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeviceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Persistence\\Repositories\\DeviceRepository.cs",
+              "RelativeDocumentMoniker": "..\\H2.Infrastructure\\Persistence\\Repositories\\DeviceRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Persistence\\Repositories\\DeviceRepository.cs",
+              "RelativeToolTip": "..\\H2.Infrastructure\\Persistence\\Repositories\\DeviceRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:54:19.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IDeviceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Repositories\\IDeviceRepository.cs",
+              "RelativeDocumentMoniker": "..\\H2.Application\\Interfaces\\Repositories\\IDeviceRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Repositories\\IDeviceRepository.cs",
+              "RelativeToolTip": "..\\H2.Application\\Interfaces\\Repositories\\IDeviceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:51:00.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SensorDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Persistence\\Repositories\\SensorDataRepository.cs",
+              "RelativeDocumentMoniker": "..\\H2.Infrastructure\\Persistence\\Repositories\\SensorDataRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Infrastructure\\Persistence\\Repositories\\SensorDataRepository.cs",
+              "RelativeToolTip": "..\\H2.Infrastructure\\Persistence\\Repositories\\SensorDataRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwDgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:52:34.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ISensorDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Repositories\\ISensorDataRepository.cs",
+              "RelativeDocumentMoniker": "..\\H2.Application\\Interfaces\\Repositories\\ISensorDataRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Repositories\\ISensorDataRepository.cs",
+              "RelativeToolTip": "..\\H2.Application\\Interfaces\\Repositories\\ISensorDataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:49:14.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:41:47.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IS3Uploader.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Cloud\\IS3Uploader.cs",
+              "RelativeDocumentMoniker": "..\\H2.Application\\Interfaces\\Cloud\\IS3Uploader.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\H2\\src\\H2.Application\\Interfaces\\Cloud\\IS3Uploader.cs",
+              "RelativeToolTip": "..\\H2.Application\\Interfaces\\Cloud\\IS3Uploader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:41:45.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

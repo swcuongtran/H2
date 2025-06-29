@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0+7VqT8EKBxSzPZJ1qDFTwWYmaSZPTZPQKmQBq3pnsQ=",
+  "Source": "H2.API",
+  "BasePath": "_content/H2.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

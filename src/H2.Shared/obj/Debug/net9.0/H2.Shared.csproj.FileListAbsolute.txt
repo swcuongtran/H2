@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\H2\src\H2.Shared\bin\Debug\net9.0\H2.Shared.deps.json
+C:\Users\Admin\Desktop\H2\src\H2.Shared\bin\Debug\net9.0\H2.Shared.dll
+C:\Users\Admin\Desktop\H2\src\H2.Shared\bin\Debug\net9.0\H2.Shared.pdb
+C:\Users\Admin\Desktop\H2\src\H2.Shared\obj\Debug\net9.0\H2.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\H2\src\H2.Shared\obj\Debug\net9.0\H2.Shared.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\H2\src\H2.Shared\obj\Debug\net9.0\H2.Shared.AssemblyInfo.cs
+C:\Users\Admin\Desktop\H2\src\H2.Shared\obj\Debug\net9.0\H2.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\H2\src\H2.Shared\obj\Debug\net9.0\H2.Shared.sourcelink.json
+C:\Users\Admin\Desktop\H2\src\H2.Shared\obj\Debug\net9.0\H2.Shared.dll
+C:\Users\Admin\Desktop\H2\src\H2.Shared\obj\Debug\net9.0\refint\H2.Shared.dll
+C:\Users\Admin\Desktop\H2\src\H2.Shared\obj\Debug\net9.0\H2.Shared.pdb
+C:\Users\Admin\Desktop\H2\src\H2.Shared\obj\Debug\net9.0\ref\H2.Shared.dll

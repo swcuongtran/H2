@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\H2\src\H2.Domain\bin\Debug\net9.0\H2.Domain.deps.json
+C:\Users\Admin\Desktop\H2\src\H2.Domain\bin\Debug\net9.0\H2.Domain.dll
+C:\Users\Admin\Desktop\H2\src\H2.Domain\bin\Debug\net9.0\H2.Domain.pdb
+C:\Users\Admin\Desktop\H2\src\H2.Domain\obj\Debug\net9.0\H2.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\H2\src\H2.Domain\obj\Debug\net9.0\H2.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\H2\src\H2.Domain\obj\Debug\net9.0\H2.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\H2\src\H2.Domain\obj\Debug\net9.0\H2.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\H2\src\H2.Domain\obj\Debug\net9.0\H2.Domain.sourcelink.json
+C:\Users\Admin\Desktop\H2\src\H2.Domain\obj\Debug\net9.0\H2.Domain.dll
+C:\Users\Admin\Desktop\H2\src\H2.Domain\obj\Debug\net9.0\refint\H2.Domain.dll
+C:\Users\Admin\Desktop\H2\src\H2.Domain\obj\Debug\net9.0\H2.Domain.pdb
+C:\Users\Admin\Desktop\H2\src\H2.Domain\obj\Debug\net9.0\ref\H2.Domain.dll
